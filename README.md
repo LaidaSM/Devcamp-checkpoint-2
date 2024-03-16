@@ -1,3 +1,2 @@
-# Devcamp Fullstack course Checkpoint 2
+# UntitledPage
 
-M1C2 Flexbox Assignment proposal from Laida Suquilvide
