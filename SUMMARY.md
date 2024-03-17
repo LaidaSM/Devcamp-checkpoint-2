@@ -4,3 +4,4 @@
 * [1. ¿Para qué usamos Clases en Python?](1.-para-que-usamos-clases-en-python.md)
 * [2. ¿Qué método se ejecuta automáticamente cuando se crea una instancia de una clase?](2.-que-metodo-se-ejecuta-automaticamente-cuando-se-crea-una-instancia-de-una-clase.md)
 * [8. ¿Qué es un método dunder?](8.-que-es-un-metodo-dunder.md)
+* [9. ¿Qué es un decorador de python?](9.-que-es-un-decorador-de-python.md)
